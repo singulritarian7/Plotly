@@ -1,0 +1,31 @@
+---
+title: "Assingment  Week 3"
+author: "Beatriz Jiménez Franco"
+date: "6/12/2020"
+output: ioslides_presentation
+---
+
+## 06 December, 2020
+
+```{r, eval = FALSE} 
+library(datasets)
+data(trees)
+library(plotly)
+plot_ly( data = trees, x = ~ Girth, y = ~ Height, z = ~ Volume,
+type = "scatter3d", mode = "markers", color = ~ Volume) 
+
+```
+
+## Slide with Plot
+
+
+```{r, echo = FALSE, warning=FALSE, message=FALSE}
+library(datasets)
+data(trees)
+library(plotly)
+plot_ly( data = trees, x = ~ Girth, y = ~ Height, z = ~ Volume,
+type = "scatter3d", mode = "markers", color = ~ Volume) 
+
+```
+
+## Thank you
