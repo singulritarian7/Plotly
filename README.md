@@ -21,3 +21,6 @@ You can see the 3D scatter plot loading the dataset "trees" , see R.md file to s
 You can see the Time series Chart and Heat Maps here;
 
 <https://rpubs.com/spoke/700790>
+
+<https://singulritarian7.github.io/Plotly/plotly2.html#1>
+
