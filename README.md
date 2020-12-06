@@ -24,3 +24,8 @@ You can see the Time series Chart and Heat Maps here;
 
 <https://singulritarian7.github.io/Plotly/plotly2.html#1>
 
+You can see aditional examples here:
+
+<https://singulritarian7.github.io/Plotly/plotly2.html#1>
+
+<https://rpubs.com/spoke/700837>
