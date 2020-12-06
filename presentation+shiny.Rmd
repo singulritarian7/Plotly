@@ -6,8 +6,6 @@ output: ioslides_presentation
 runtime: shiny
 ---
 
-NO SALE, ALGO HAGO MAL
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
