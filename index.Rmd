@@ -7,6 +7,8 @@ output: ioslides_presentation
 
 ## 06 December, 2020
 
+In this slide i only show the code
+
 ```{r, eval = FALSE} 
 library(datasets)
 data(trees)
