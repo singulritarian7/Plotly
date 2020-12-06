@@ -8,10 +8,12 @@ The rubric contains the following two questions:
 
 2. Is the web page a presentation and does it feature an interactive plot that appears to have been created with Plotly?
 
-You can see the htlm presentation hosted in gh-àhes in github:
+You can see the htlm presentation hosted in gh-Ã hes in github:
 
 <https://singulritarian7.github.io/Plotly/index.html#1>
 
 You can also see the presentation in this RPubs link:
 
 <https://rpubs.com/spoke/700646>
+
+You can see the 3D scatter plot loading the dataset "trees" , see R.md file to see the code.
