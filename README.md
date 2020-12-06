@@ -18,7 +18,7 @@ You can also see the presentation in this RPubs link:
 
 You can see the interactive 3D scatter plot loading the dataset "trees" , see index R.md file and index htlm to see the code.
 
-## I have added aditional examples:
+## I have added additional examples:
 
 You can see the Time series Chart and Heat Maps here;
 
@@ -26,7 +26,7 @@ You can see the Time series Chart and Heat Maps here;
 
 <https://singulritarian7.github.io/Plotly/plotly2.html#1>
 
-You can see aditional examples here:
+You can see additional examples here:
 
 <https://singulritarian7.github.io/Plotly/plotly2.html#1>
 
